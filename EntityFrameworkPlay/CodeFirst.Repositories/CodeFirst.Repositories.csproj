@@ -65,9 +65,9 @@
       <Project>{902b9f54-f19c-41ad-ad1d-ceee10e52941}</Project>
       <Name>CodeFirst.DomainModel</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CodeFirst.Repositories.Interfaces\CodeFirst.Repositories.Interfaces.csproj">
-      <Project>{d1d38842-5604-4953-b054-299dc9e4d5ec}</Project>
-      <Name>CodeFirst.Repositories.Interfaces</Name>
+    <ProjectReference Include="..\CodeFirst.Services\CodeFirst.Services.csproj">
+      <Project>{87dc7788-7870-4aed-b698-7b2a9b1e6f79}</Project>
+      <Name>CodeFirst.Services</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

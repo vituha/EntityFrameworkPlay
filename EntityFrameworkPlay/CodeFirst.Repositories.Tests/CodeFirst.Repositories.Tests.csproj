@@ -80,10 +80,6 @@
       <Project>{902b9f54-f19c-41ad-ad1d-ceee10e52941}</Project>
       <Name>CodeFirst.DomainModel</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CodeFirst.Repositories.Interfaces\CodeFirst.Repositories.Interfaces.csproj">
-      <Project>{d1d38842-5604-4953-b054-299dc9e4d5ec}</Project>
-      <Name>CodeFirst.Repositories.Interfaces</Name>
-    </ProjectReference>
     <ProjectReference Include="..\CodeFirst.Repositories\CodeFirst.Repositories.csproj">
       <Project>{dcb7e531-fa1b-42da-bedc-3cad6c31633d}</Project>
       <Name>CodeFirst.Repositories</Name>

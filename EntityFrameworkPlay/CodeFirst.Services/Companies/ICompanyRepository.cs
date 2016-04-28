@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Vituha.Play.EntityFramework.CodeFirst.Repositories.Companies
+namespace Vituha.Play.EntityFramework.CodeFirst.Services.Companies
 {
     public interface ICompanyRepository
     {

@@ -2,6 +2,7 @@
 using System.Data.Entity;
 using System.Linq;
 using Vituha.Play.EntityFramework.CodeFirst.Repositories.Tables;
+using Vituha.Play.EntityFramework.CodeFirst.Services.Companies;
 
 namespace Vituha.Play.EntityFramework.CodeFirst.Repositories.Companies
 {
